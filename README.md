@@ -1,5 +1,5 @@
 # Keras Build for Docker
-Contains Dockerfile & example usage scripts based off of https://github.com/keras-team/keras/blob/master/docker/Dockerfile
+Contains Dockerfile & example usage scripts. Dockerfile based off of https://github.com/keras-team/keras/blob/master/docker/Dockerfile. This build uses Tensorflow, only.
 
 1. Dockerfile
     - Main build file
